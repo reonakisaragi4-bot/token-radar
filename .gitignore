@@ -1,0 +1,3 @@
+# Local run output (board.json, data.js, dashboard/, screenshots/, dossier.json).
+# The grader builds its own /output, so nothing under out/ is ever committed.
+out/
